@@ -1,0 +1,10 @@
+/* colors.css */
+/* these colors are already configured in tailwind.config.js */
+:root {
+  --primary-color: #205387;
+  --secondary-color: #d9d9d9;
+  --accent-color: #ff9900;
+  --gray-color: #7c7979;
+  --black-color: #000000;
+  --white-color: #ffffff;
+}
