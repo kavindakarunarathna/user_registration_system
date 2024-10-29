@@ -1,16 +1,3 @@
-# Full-stack Engineer Aptitude Test
-
-This repository contains an aptitude test for the Full-stack Engineer position. The project implements various features and uses multiple libraries and tools. Below are the details of the implemented features, used libraries, and the developer's information.
-
-
-## Scripts
-
-- `npm install`: Install libraries.
-- `npm run dev`: To run the development server.
-- `npm test`: To run the test suite.
-- `npm build`: To build the project.
-
-
 ## Implemented Features
 
 1. Login Screen
@@ -40,6 +27,6 @@ This repository contains an aptitude test for the Full-stack Engineer position. 
 
 ## Developer Information
 
-- Developer: Dineth Ekanayaka
-- Email: sendtodineth@gmail.com
-- Phone: 0763137905
+- Developer: kavinda karunarathna
+- Email: kavindakarunarathna@gmail.com
+- Phone: 07687584306
